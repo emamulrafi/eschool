@@ -1,0 +1,318 @@
+/* Font Family Start 
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+
+   Font Family End */
+
+
+/* Common Start  */
+
+body
+{
+     font-family: 'Poppins', sans-serif;
+     font-size: 16px;
+     font-weight: 400;
+     color:black;
+}
+
+.c_padding
+{
+   padding-bottom: 100px;
+}
+/* Common End */
+
+/* Header Section Start  */
+header
+{
+   background-color: #F0FFF0;
+   padding:5px 0;
+
+}
+.menu
+{
+   overflow: hidden !important;
+}
+
+.menu ul li a{
+   padding :0 25px !important;
+   color:black !important ;  
+}
+
+.menu ul li a:hover
+{
+   color: #fa7344 !important ;
+}
+
+.btn_cm
+{
+   font-family: 'Roboto', sans-serif;
+   background-color: #21B573;
+   border-radius: 33px;
+}
+
+.btn_cm:hover{
+   background-color: #fa7344;
+   color: white;
+}
+ .btn_cm:active
+{
+   background-color: #fa7344 !important;
+   color: white !important;
+} 
+.btn_sign
+{
+   padding:12px 28px;
+   margin-left: 15px;
+   color:white;
+   broder:1px solid transparent;
+}
+
+/* Header Section End */
+
+/* Banner Section Start */
+
+.banner
+{
+   background-color: #F0FFF0;
+   padding:50px 0 70px 0;
+}
+
+.b_text
+{
+   padding-right: 100px;
+}
+
+.p_1
+{
+   color: #FD511A;
+}
+.p_2
+{
+   color:#6E756E;
+   line-height: 2em;
+}
+.t_h1
+{
+   font-size: 48px;
+   font-weight: 700;
+   line-height: 1.5em;
+   padding: 10px 0;
+}
+
+
+.t_h1 span{
+   color:#21B573;
+}
+
+.b_button
+{
+   margin-left: 0;
+   margin-top:30px;
+}
+
+.b_image img{
+   width:100%;
+}
+
+/* Banner Section End */
+
+.feature
+{
+  margin-bottom: 100px;
+}
+
+.s_feature
+{
+   margin-top:50px;
+   background-color: #E5F7E8;
+   padding:60px 0 70px ;
+   border-radius: 10px;
+   display: block;
+   overflow: hidden;
+}
+.s_img
+{
+   margin:0 auto;
+   width: 65px;
+   height: 75px;
+   
+}
+
+.s_img img
+{
+   width: 100%;
+}
+
+.fh2
+{
+   margin-top:20px;
+   font-size: 24px;
+   font-weight: 500;
+   line-height: 36px  ;
+   color:black;
+}
+
+.fp
+{
+   font-weight: 400;
+   color:black;
+}
+
+/* Feature Section Hover Effect */
+.s_feature:hover {
+   background-color: #fff;
+   box-shadow: 0 20px 40px 0 rgba(0,0,0,0.10);
+}
+
+/* Feature Section Start  */
+
+/* Course Section Start */
+.course
+{
+   overflow: hidden;
+}
+
+.c_title
+{
+
+}
+.c_h1
+{
+   font-size: 36px;
+   font-weight: 700;
+   line-height: 36px;
+   color:black;
+}
+
+.c_item
+{
+   margin-top:60px;
+   border-radius: 10px;
+   padding:24px 20px 40px;
+   background-color: #fff;
+   box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.15);
+}
+
+.c_img
+{
+
+}
+
+.c_img img{
+   width: 100%;
+}
+
+.c_h2
+{
+   margin:20px 0 5px;
+  font-size: 24px;
+  font-weight: 500;
+  color:black;
+  line-height: 36px;
+}
+
+.cp{
+   margin:0;
+}
+
+.c_btn
+{
+   margin:20px 0 25px;
+   color:white;
+   font-family: 'Roboto', sans-serif;
+   padding: 5px 30px !important;
+}
+
+.cli:not(:last-child)
+{
+   margin-right:2px;
+}
+
+
+
+.c_left ul li span,
+.c_right ul li span{
+   font-weight: 500;
+}
+
+.c_right ul li img{
+
+}
+
+/* Course Section End */
+
+/*Footer Section*/
+
+/* footer top strat */
+.footer_top{
+   padding: 55px 0 55px;
+   background-color: #282531;
+}
+.ft_details{
+   padding-right: 120px;
+}
+.ft_details p{
+   color: #fff;
+   line-height: 30px;
+}
+.ft_links h2{
+   margin-bottom: 8px;
+   font-size: 18px;
+   font-weight: 700;
+   color: #fff;
+   line-height: 30px;
+}
+.ft_links ul li a{
+   margin-bottom: 8px;
+   display: block; 
+   text-decoration: none;
+   color: #fff;
+}
+/* footer top end */
+
+/* footer start */
+footer{
+   padding: 15px 0 30px;
+   background-color: #282531;
+}
+footer p{
+   color: #fff;
+   line-height: 30px;
+}
+footer p a{
+   color: #fff;
+   text-decoration: none;
+}
+/* footer end */
+
+
+
+
+/*Footer Section End*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Feature Section End */

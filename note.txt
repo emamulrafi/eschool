@@ -1,0 +1,11 @@
+font-family
+	Rubik 700 -> Logo
+	Poppins 400,500,700
+	Roboto 400
+
+Color
+	Logo - >- #56548C
+	Heading -> black
+		     Grren -  #21b573
+
+Common
